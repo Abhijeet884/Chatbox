@@ -1,0 +1,75 @@
+
+html {
+    height: 100%;
+}
+
+.chat-body{
+         background-image: url('https://i.imgur.com/tYfTZmU.jpeg');
+         background-repeat: repeat-x;
+         background-size: 60% auto;
+         color: white;
+         font-family:sans-serif;
+         font-weight: bold;
+         text-align: left;
+         height: 620px ;
+         width: 500px;
+         margin:  10px 450px 0 ;
+         padding: 0.5px 30px 80px;
+         border-radius: 12px;
+         box-shadow: 0 2px 8px rgb(0, 0, 0);
+      }
+.wave{
+         padding-left: 5px;
+}
+
+.robot{
+          margin-top: -3px;
+          width: 25%;
+          height:15%;
+          margin-left: 50px;
+          background-color: orange;
+          border-radius: 50%;
+          text-align: center;
+          padding-top: 20px;
+          opacity:0.9;
+}
+
+.content{
+          border: 2px solid black;
+          box-sizing: content-box;
+          margin-top: 20px;
+          padding-top: 5px;
+          border-radius: 5px;
+          padding: 3px 5px 5px 10px;
+}
+
+.chat-bottom{
+            background-color: White ;
+            color: Black;
+            font-weight: bold;
+            font-family: sans-serif;
+            margin-right: 90px ;
+            margin-top: -40px;
+            padding: 1px 40px;
+            padding-top: 20px;
+            text-align: left;
+            height: 400px ;
+            width:420px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgb(0, 0, 0);
+            box-sizing: content-box;
+         }
+.card-body{
+            margin: 50px 0 5px 0;
+            padding: 5px 0 5px 0;
+            font-size: 1.25em;
+}
+
+.button{
+            text-align: center;
+            margin: 25px 50px 5px 80px ;
+            padding: 15px 25px 15px 15px;
+            font-size: 1.15em;
+            font-weight: bold;
+            border-radius: 12px;
+}
